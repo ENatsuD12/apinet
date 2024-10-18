@@ -1,0 +1,6 @@
+@MiCrud_HostAddress = http://localhost:5260
+
+GET {{MiCrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
